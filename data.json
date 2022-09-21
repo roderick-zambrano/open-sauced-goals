@@ -1,26 +1,26 @@
 [
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 23629,
+    "stargazers_count": 23635,
     "open_issues_count": 99,
-    "forks_count": 1149
+    "forks_count": 1151
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 49963,
-    "open_issues_count": 792,
-    "forks_count": 3797
+    "stargazers_count": 49980,
+    "open_issues_count": 790,
+    "forks_count": 3798
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 85326,
-    "open_issues_count": 1007,
+    "stargazers_count": 85341,
+    "open_issues_count": 1012,
     "forks_count": 4611
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 785,
     "open_issues_count": 22,
-    "forks_count": 386
+    "forks_count": 387
   }
 ]
