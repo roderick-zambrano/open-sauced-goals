@@ -1,21 +1,21 @@
 [
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 60992,
-    "open_issues_count": 141,
-    "forks_count": 9515
+    "stargazers_count": 61219,
+    "open_issues_count": 133,
+    "forks_count": 9555
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58882,
+    "stargazers_count": 58903,
     "open_issues_count": 59,
-    "forks_count": 1374
+    "forks_count": 1375
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 75430,
-    "open_issues_count": 9445,
-    "forks_count": 10124
+    "stargazers_count": 75528,
+    "open_issues_count": 9433,
+    "forks_count": 10137
   },
   {
     "full_name": "elm/core",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 140191,
-    "open_issues_count": 6328,
-    "forks_count": 24256
+    "stargazers_count": 140336,
+    "open_issues_count": 5923,
+    "forks_count": 24285
   }
 ]
